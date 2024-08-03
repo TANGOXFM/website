@@ -1,0 +1,10 @@
+body {
+    background: rgba(0, 0, 0, 0.342);
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+    font-size: x-large;
+  }
